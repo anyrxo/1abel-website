@@ -1,0 +1,2 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+01:59:36	136/136	---MC-	308	error ('Permanent%20Redirect')	text/html	date:Sat,%2002%20Aug%202025%2005:59:35%20GMT	https://igloo.inc/	/home/ubuntu/igloo_clone/igloo.inc/index.html	(from )
